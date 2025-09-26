@@ -1,2 +1,2 @@
 # chatbot
-chatbot in terminal
+google generative ai
